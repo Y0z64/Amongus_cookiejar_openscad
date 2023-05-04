@@ -1,4 +1,6 @@
 # Amongus_cookiejar_openscad
+![alt text](https://github.com/Y0z64/amongus_cookiejar_openscad/blob/master/assets/whole_model.png?raw=true)
+
 Made this for a school project using openscad.
 All the surfaces are based on parametrized equations translated (badly) into openscad
 
